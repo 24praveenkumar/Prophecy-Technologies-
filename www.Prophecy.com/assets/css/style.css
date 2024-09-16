@@ -126,7 +126,7 @@ body {
 .hmbanner {
     background: #01497C;
     /* background-image:url(https://t3.ftcdn.net/jpg/05/14/95/12/360_F_514951224_2dxMLbIw5qNRdPGD003chpbVcxWtcp7K.jpg) ; */
-    background-image: linear-gradient( to bottom right ,#840a99, #07096d );
+    /* background-image: linear-gradient( to bottom right ,#840a99, #07096d ); */
     /* background-repeat:no-repeat ;
     background-size: cover; */
 }
