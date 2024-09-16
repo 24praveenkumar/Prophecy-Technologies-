@@ -147,8 +147,8 @@ body {
     position: fixed;
     animation: hedscroll 0.8s ease-in-out;
     animation-fill-mode: forwards;
-    /* background: #01497C; */
-    background-image: linear-gradient( to bottom right ,#840a99, #07096d );
+    background: #01497C;
+/*     background-image: linear-gradient( to bottom right ,#840a99, #07096d ); */
     box-shadow: 0 0 40px rgba(0, 0, 0, 0.5);
 }
 
